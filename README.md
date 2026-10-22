@@ -16,7 +16,7 @@ A Chrome extension that searches selected text using customizable search engines
 - Created test cases for core features and settings.
 - Documented test scenarios and test results.
 
-[View Repository](https://github.com/teohnam/selection-search-chrome-extension/tree/main/docs/qa))
+[View Repository](https://github.com/teohnam/selection-search-chrome-extension/tree/main/docs/qa)
 
 ### 2. TV Guide Scraper & API Importer
 A personal automation project using Playwright and REST APIs.
@@ -32,7 +32,7 @@ A Playwright script that automates book searches and adds books to a reading lis
 - Processes multiple book titles from a text file.
 - Records processing results in a CSV file.
 
-[View Repository]https://github.com/teohnam/automation-lab/tree/main/douban-books
+[View Repository](https://github.com/teohnam/automation-lab/tree/main/douban-books)
 
 ## Other Projects
 
